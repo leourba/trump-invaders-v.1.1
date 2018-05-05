@@ -4,7 +4,7 @@ var guns = [];
 var img;
 
 function preload(){
-  img=loadImage('https://github.com/leourba/trump-invaders/blob/master/images/miguel.PNG');
+  img=loadImage('https://raw.githubusercontent.com/leourba/trump-invaders-v.1.1/master/images/trump.PNG');
 
 }
 function setup() {
