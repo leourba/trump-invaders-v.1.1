@@ -4,7 +4,7 @@ var guns = [];
 var img;
 
 function preload(){
-  img=loadImage('https://raw.githubusercontent.com/leourba/trump-invaders-v.1.1/master/images/trump.PNG');
+  img=loadImage('https://github.com/leourba/trump-invaders/blob/master/images/miguel.PNG');
 
 }
 function setup() {
@@ -24,6 +24,7 @@ function draw() {
 
    if(invaders.length==0){
     text('felicitaciones, GANASTE!',400,height/2);
+     text('felicitaciones, GANASTE!',400,5*height/4);
   }
 
   
