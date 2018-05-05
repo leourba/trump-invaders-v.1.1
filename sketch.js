@@ -24,7 +24,7 @@ function draw() {
 
    if(invaders.length==0){
     text('felicitaciones, GANASTE!',400,height/2);
-     text('holaaaa',400,3*height/2);
+     text('holaaaa',400,height*0.6);
   }
 
   
